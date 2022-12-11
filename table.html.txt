@@ -1,0 +1,19 @@
+<html>
+<head>
+  <title>Table</title>
+</head>
+<body>
+<table>
+<tr>
+  <th>Employee Name</th>
+  <th>Employee Age</th>
+  <th>Employee Designation</th>
+</tr>
+<tr>
+  <td>Praveen</td>
+  <td>23</td>
+  <td>JR FullStack developer</td>
+</tr>
+</table>
+</body>
+</html>
